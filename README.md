@@ -10,3 +10,15 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-array.js)
 |121|[Best time to buy and sell stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/best-time-to-buy-and-sell-stock.js)
 |804|[Unique morse code words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/unique-morse-code-words.js)
+
+### Database
+| # | Title | Solution |
+|---| ----- | -------- |
+|175|[Combine two tables](https://leetcode-cn.com/problems/combine-two-tables/description/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/combine-two-tables.sql)
+|181|[Employees earning more than their managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/description/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/employees-earning-more-than-their-manager.sql)
+|182|[Duplicate emails](https://leetcode-cn.com/problems/duplicate-emails/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/duplicate-emails.sql)
+|183|[Customers who never order](https://leetcode-cn.com/problems/customers-who-never-order/description/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/customers-who-never-order.sql)
+|196|[Delete duplicate emails](https://leetcode-cn.com/problems/delete-duplicate-emails/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/delete-duplicate-emails.sql)
+|595|[Big countries](https://leetcode-cn.com/problems/big-countries/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/big-countries.sql)
+|620|[Not boring movies](https://leetcode-cn.com/problems/not-boring-movies/description/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/not-boring-movies.sql)
+|627|[Swap salary](https://leetcode-cn.com/problems/swap-salary/description/) | [MYSQL](https://github.com/vancelin/leetcode/blob/master/databases/swap-salary.sql)
