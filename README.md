@@ -10,6 +10,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-array.js)
 |121|[Best time to buy and sell stock I](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/best-time-to-buy-and-sell-stock-i.js)
 |122|[Best time to buy and sell stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/best-time-to-buy-and-sell-stock-ii.js)
+|189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/rotate-array.js)
 |292|[Nim game](https://leetcode-cn.com/problems/nim-game/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/nim-game.js)
 |344|[Reverse string](https://leetcode-cn.com/problems/reverse-string/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/reverse-string.js)
 |657|[Robot return to origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/robot-return-to-origin.js)
