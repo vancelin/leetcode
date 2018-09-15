@@ -15,6 +15,8 @@ LeetCode
 |217|[Contains duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/contains-duplicate.js)
 |292|[Nim game](https://leetcode-cn.com/problems/nim-game/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/nim-game.js)
 |344|[Reverse string](https://leetcode-cn.com/problems/reverse-string/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/reverse-string.js)
+|349|[Intersection of two arrays I](https://leetcode-cn.com/problems/intersection-of-two-arrays) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/intersection-of-two-arrays.js)
+|350|[Intersection of two arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/intersection-of-two-arrays-ii.js)
 |657|[Robot return to origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/robot-return-to-origin.js)
 |709|[To lower case](https://leetcode-cn.com/problems/to-lower-case/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/to-lower-case.js)
 |771|[Jewels and stones](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/jewels-and-stones.js)
