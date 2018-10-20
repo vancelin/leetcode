@@ -18,6 +18,7 @@ LeetCode
 |125|[Valid palindrome](https://leetcode-cn.com/problems/valid-palindrome) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/valid-palindrome.js)
 |136|[Single number](https://leetcode-cn.com/problems/single-number) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/single-number.js)
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/rotate-array.js)
+|206|[Reverse linked list](https://leetcode-cn.com/problems/reverse-linked-list) |[JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/reverse-linked-list.js)
 |217|[Contains duplicate](https://leetcode-cn.com/problems/contains-duplicate) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/contains-duplicate.js)
 |237|[Delete node in a linked list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/delete-node-in-a-linked-list.js)
 |242|[Valid anagram](https://leetcode-cn.com/problems/valid-anagram) | [JavaScript](https://github.com/vancelin/leetcode/blob/master/algorithms/valid-anagram.js)
